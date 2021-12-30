@@ -1,4 +1,4 @@
-# AllSetFor
+# Systeme d'authentification Symfony 
 
 Lancer les commandes suivante pour essayer le projet 
 1. git clone https://github.com/Selim-web/AllSetFor.git 
